@@ -33,3 +33,8 @@ Magento Community Edition 2.1
 		
 ## Support
 If you need support or have any questions directly related to a [MageVision](https://www.magevision.com/) extension, please contact us at [support@magevision.com](mailto:support@magevision.com)
+
+
+## PHP and Mage-OS compatibility
+
+This Grinet fork retains the original PHP 5.5/5.6/7.0 and Magento framework 100.x constraints and additionally allows PHP 8.1-8.5 with framework 103.x. Isolated setup checks preserve 51 regions and 102 translated names. Mage-OS keywords indicate compatibility evidence from its Magento namespaces and Composer replacement metadata, not full integration certification. The upstream package identity is preserved; this GitHub release does not publish a new version of the upstream Packagist package.
